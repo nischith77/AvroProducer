@@ -2,7 +2,226 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17db58ef-fe15-4b17-87d2-100788ac2c07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__confluent.support.metrics-0/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__confluent.support.metrics-0/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__confluent.support.metrics-0/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__confluent.support.metrics-0/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-0/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-0/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-0/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-0/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-1/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-1/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-1/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-1/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-10/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-10/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-10/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-10/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-11/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-11/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-11/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-11/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-12/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-12/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-12/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-12/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-13/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-13/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-13/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-13/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-14/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-14/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-14/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-14/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-15/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-15/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-15/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-15/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-16/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-16/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-16/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-16/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-17/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-17/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-17/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-17/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-18/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-18/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-18/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-18/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-19/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-19/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-19/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-19/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-2/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-2/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-2/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-2/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-20/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-20/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-20/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-20/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-21/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-21/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-21/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-21/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-22/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-22/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-22/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-22/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-23/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-23/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-23/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-23/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-24/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-24/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-24/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-24/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-25/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-25/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-25/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-25/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-26/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-26/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-26/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-26/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-27/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-27/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-27/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-27/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-28/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-28/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-28/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-28/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-29/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-29/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-29/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-29/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-3/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-3/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-3/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-3/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-30/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-30/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-30/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-30/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-31/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-31/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-31/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-31/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-32/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-32/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-32/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-32/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-33/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-33/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-33/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-33/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-34/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-34/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-34/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-34/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-35/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-35/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-35/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-35/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-36/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-36/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-36/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-36/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-37/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-37/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-37/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-37/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-38/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-38/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-38/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-38/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-39/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-39/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-39/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-39/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-4/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-4/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-4/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-4/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-40/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-40/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-40/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-40/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-41/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-41/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-41/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-41/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-42/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-42/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-42/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-42/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-43/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-43/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-43/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-43/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-44/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-44/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-44/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-44/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-45/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-45/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-45/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-45/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-46/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-46/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-46/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-46/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-47/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-47/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-47/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-47/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-48/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-48/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-48/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-48/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-49/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-49/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-49/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-49/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-5/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-5/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-5/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-5/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-6/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-6/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-6/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-6/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-7/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-7/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-7/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-7/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-8/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-8/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-8/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-8/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-9/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-9/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-9/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/__consumer_offsets-9/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/_schemas-0/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/_schemas-0/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/_schemas-0/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/_schemas-0/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/cleaner-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/log-start-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/mein_topic-0/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/mein_topic-0/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/mein_topic-0/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/mein_topic-0/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/meta.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/recovery-point-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/kafka1/data/replication-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/zoo1/data/myid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/zoo1/datalog/version-2/log.1" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +258,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="60">
-                <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+                <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
               </first_editor>
               <second_editor />
             </state>
@@ -50,7 +269,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -124,12 +343,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567625814440</updated>
-      <workItem from="1567625818645" duration="2422000" />
+      <workItem from="1567625818645" duration="2727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2422000" />
+    <option name="totallyTimeSpent" value="2727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="959" extended-state="6" />
@@ -185,7 +404,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
-            <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
           </first_editor>
           <second_editor />
         </state>
@@ -194,7 +413,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
