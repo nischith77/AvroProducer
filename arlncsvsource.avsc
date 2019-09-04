@@ -1,0 +1,778 @@
+{
+  "type": "record",
+  "name": "arlncsvsource",
+  "namespace": "gov.cdc.ncezid.arln.model",
+  "fields": [
+  {
+    "name": "patient_id",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "patient_id_assigner",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "patient_sex",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "patient_age",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "patient_age_unit",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "phl",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "processing_laboratory_id",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "healthcare_facility_of_origin_id",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "healthcare_facility_of_origin_name",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "healthcare_facility_of_origin_state",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "healthcare_facility_of_origin_zipcode",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "submitter_facility_id",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "submitter_facility_id_assigner",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "submitter_facility_name",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "submitter_facility_state",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "submitter_facility_zipcode",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "specimen_type",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "specimen_type_free_text",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "specimen_collection_date",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "specimen_received_date",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "submitter_specimen_id",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "arln_specimen_id",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "isolate_forwarded_to_reglab",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "date_forwarded_to_reglab",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "organism_tested",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "phenotypic_test_result",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "phenotypic_method_used",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "confirmed_carbapenem_resistant",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ast_method_used",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "pcr_method_used",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "imp_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "kpc_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "mcr_1_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "mcr_2_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "mcr_3_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "mcr_4_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ndm_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "oxa_48_like_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "oxa_24_40_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "oxa_58_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "oxa_235_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "oxa_23_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "vim_gene",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "other_gene_name",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "other_gene_result",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "aztreonam_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "aztreonam_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "aztreonam_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "cefepime_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "cefepime_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "cefepime_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftazidime_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftazidime_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftazidime_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftriaxone_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftriaxone_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftriaxone_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "colistin_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "colistin_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "doripenem_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "doripenem_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "doripenem_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ertapenem_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ertapenem_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ertapenem_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "imipenem_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "imipenem_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "imipenem_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "meropenem_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "meropenem_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "meropenem_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "other_3rdgen_cephalosporin_name",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "other_3rdgen_cephalosporin_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "other_3rdgen_cephalosporin_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "other_3rdgen_cephalosporin_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "reglab_comment",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "piperacillin_tazobactam_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "piperacillin_tazobactam_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "piperacillin_tazobactam_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "amikacin_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "amikacin_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "amikacin_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ciprofloxacin_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ciprofloxacin_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ciprofloxacin_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "doxycycline_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "doxycycline_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "doxycycline_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "gentamicin_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "gentamicin_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "gentamicin_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "hp_aztreonam_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "hp_aztreonam_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "hp_aztreonam_avibactam_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "hp_aztreonam_avibactam_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "hp_ceftazidime_avibactam_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "hp_ceftazidime_avibactam_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "hp_ceftazidime_aztreonam_avibactam_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "hp_ceftazidime_aztreonam_avibactam_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "levofloxacin_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "levofloxacin_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "levofloxacin_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "minocycline_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "minocycline_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "minocycline_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "polymixin_b_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "polymixin_b_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "polymixin_b_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ticarcillin_clavulanate_constant2_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ticarcillin_clavulanate_constant2_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ticarcillin_clavulanate_constant2_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "tigecycline_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "tigecycline_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "tigecycline_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "tobramycin_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "tobramycin_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "tobramycin_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "trimethoprim_sulfamethoxazole_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "trimethoprim_sulfamethoxazole_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "trimethoprim_sulfamethoxazole_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "meropenem_vaborbactam_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "meropenem_vaborbactam_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "meropenem_vaborbactam_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftolozane_tazobactam_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftolozane_tazobactam_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftolozane_tazobactam_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftazidime_avibactam_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftazidime_avibactam_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftazidime_avibactam_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "moxifloxacin_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "moxifloxacin_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "moxifloxacin_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "fosfomycin_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "fosfomycin_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "fosfomycin_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "organism_suspected",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ampicillin_sulbac_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ampicillin_sulbac_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ampicillin_sulbac_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "cefotaxime_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "cefotaxime_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "cefotaxime_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "date_result_released",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "cefotaxime_clavulanate_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "cefotaxime_clavulanate_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "cefotaxime_clavulanate_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftazidime_clavulanate_ast_mic_sign",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftazidime_clavulanate_ast_mic",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "ceftazidime_clavulanate_ast_zone_diameter",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "Reporting_month",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "_recordguid",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "_filename",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "_processtime",
+    "type": ["null","int"],
+    "default": null
+  },
+  {
+    "name": "_rownumber",
+    "type": ["null","int"],
+    "default": null
+  }
+  ],
+  "connect.name": "gov.cdc.ncezid.arln.model.arlncsvsource"
+}
