@@ -3,7 +3,7 @@ from confluent_kafka.avro import AvroProducer
 import csv
 
 
-value_schema = avro.load('/home/work/src/elastic-helm-charts/avroproducer/arlncsvsource.avsc')
+value_schema = avro.load('/home/work/src/avroproducer/arlncsvsource.avsc')
 
 AvroProducerConf = {'bootstrap.servers': 'localhost:9092',
                                        'schema.registry.url': 'http://localhost:8081',
@@ -11,7 +11,7 @@ AvroProducerConf = {'bootstrap.servers': 'localhost:9092',
 
 avroProducer = AvroProducer(AvroProducerConf, default_value_schema=value_schema)
 
-with open('/home/work/src/elastic-helm-charts/avroproducer/test.csv') as file:
+with open('/home/work/src/avroproducer/test.csv') as file:
     reader = csv.DictReader(file)
     for row in reader:
        print(row)
