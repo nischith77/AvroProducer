@@ -1,0 +1,162 @@
+{
+  "type": "record",
+  "name": "waterquality",
+  "namespace": "waterqualityss",
+  "fields": [
+  {
+    "name": "monitoringSiteIdentifier",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "monitoringSiteIdentifierScheme",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "parameterWaterBodyCategory",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "observedPropertyDeterminandCode",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "procedureAnalysedFraction",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "procedureAnalysedMedia",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultUom",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "phenomenonTimeReferenceYear",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "parameterSamplingPeriod",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "procedureLOQValue",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultNumberOfSamples",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultQualityNumberOfSamplesBelowLOQ",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultQualityMinimumBelowLOQ",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultMinimumValue",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultQualityMeanBelowLOQ",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultMeanValue",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultQualityMaximumBelowLOQ",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultMaximumValue",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultQualityMedianBelowLOQ",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultMedianValue",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultStandardDeviationValue",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "procedureAnalyticalMethod",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "parameterSampleDepth",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "resultObservationStatus",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "Remarks",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "metadata_versionId",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "metadata_beginLifeSpanVersion",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "metadata_statusCode",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "metadata_observationStatus",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "metadata_statements",
+    "type": ["null","string"],
+    "default": null
+  },
+  {
+    "name": "UID",
+    "type": ["null","string"],
+    "default": null
+  }
+  ]
+}

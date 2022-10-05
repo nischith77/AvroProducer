@@ -3,7 +3,7 @@ from confluent_kafka.avro import AvroProducer
 import csv
 
 
-value_schema = avro.load('/home/work/src/avroproducer/arlncsvsource.avsc')
+value_schema = avro.load('waterquality.avsc')
 
 AvroProducerConf = {'bootstrap.servers': 'localhost:9092',
                                        'schema.registry.url': 'http://localhost:8081',
@@ -11,9 +11,9 @@ AvroProducerConf = {'bootstrap.servers': 'localhost:9092',
 
 avroProducer = AvroProducer(AvroProducerConf, default_value_schema=value_schema)
 
-with open('/home/work/src/avroproducer/test.csv') as file:
+with open('test.csv') as file:
     reader = csv.DictReader(file)
     for row in reader:
        print(row)
-       avroProducer.produce(topic='mein_topic', value=row)
+       avroProducer.produce(topic='demo_topic', value=row)
        avroProducer.flush()
